@@ -1,0 +1,1 @@
+Changing Inner HTML text using JS and displaying new values to the webpage
