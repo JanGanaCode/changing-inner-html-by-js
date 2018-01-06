@@ -14,9 +14,6 @@ h1 + p {
   font-size: 1.08em;
   color: #637a91;
   margin-top: .5em;
-  margin-bottom: 2.65em;
-  padding-bottom: 1.325em;
-  border-bottom: 1px dotted;
 }
 ul {
   padding-left: 0;
